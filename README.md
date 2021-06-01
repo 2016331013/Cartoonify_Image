@@ -1,2 +1,2 @@
-### Cartoonify_Image
+Cartoonify_Image
 ====================
