@@ -2,6 +2,7 @@
 ====================
 
 This is a Python-Tkinter based GUI. It is able to cartoonify an Image using the OpenCV Library.
+Code included in the **main.py** file
 
 Features
 --------
