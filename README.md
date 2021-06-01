@@ -5,8 +5,8 @@ This is a Python-Tkinter based GUI. It can cartoonify an Image using the OpenCV 
 
 Features
 --------
-A Button '**Cartoonify an Image**' : Which allows to select an Image from the device
-A Button '**Save Cartoon Image**: which allows to save the cartoonified image in the device location from where the original image selected
+* A Button '**Cartoonify an Image**' : Which allows to select an Image from the device
+* A Button '**Save Cartoon Image**: which allows to save the cartoonified image in the device location from where the original image selected
 
 Tools
 -----
